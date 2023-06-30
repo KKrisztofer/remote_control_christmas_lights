@@ -18,3 +18,14 @@ Volt bekötve egy relé is, mert az ablak elé feltett 220v-os fényfüzért is 
 Ezt az egészet egy NodeMCU vezérelte, ami csatlakozott egy külön (internetre nem csatlakoztatott) routerre.
 
 A kint az utcára nézve ki volt rakva egy QR kód, amit ha a látogató beolvasott a telefonjával, megjelent a telefonon a vezérlő panel és irányíthatta a fényeket.
+
+![screenshot](https://raw.githubusercontent.com/KKrisztofer/remote_control_christmas_lights/main/images/image01.jpg)
+![screenshot](https://raw.githubusercontent.com/KKrisztofer/remote_control_christmas_lights/main/images/image02.jpg)
+![screenshot](https://raw.githubusercontent.com/KKrisztofer/remote_control_christmas_lights/main/images/image06.jpg)
+![screenshot](https://raw.githubusercontent.com/KKrisztofer/remote_control_christmas_lights/main/images/image07.jpg)
+![screenshot](https://raw.githubusercontent.com/KKrisztofer/remote_control_christmas_lights/main/images/image08.jpg)
+![screenshot](https://raw.githubusercontent.com/KKrisztofer/remote_control_christmas_lights/main/images/image05.jpg)
+![screenshot](https://raw.githubusercontent.com/KKrisztofer/remote_control_christmas_lights/main/images/screenshot01.jpg)
+![screenshot](https://raw.githubusercontent.com/KKrisztofer/remote_control_christmas_lights/main/images/screenshot02.jpg)
+![screenshot](https://raw.githubusercontent.com/KKrisztofer/remote_control_christmas_lights/main/images/screenshot03.jpg)
+![screenshot](https://raw.githubusercontent.com/KKrisztofer/remote_control_christmas_lights/main/images/screenshot07.jpg)
